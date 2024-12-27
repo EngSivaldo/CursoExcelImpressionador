@@ -44,3 +44,26 @@ Macros: Grava, executa e gerencia macros.
 Código: Acessa o editor do Visual Basic, grava macros e gerencia complementos.
 Controles: Insere controles de formulário e ActiveX.
 XML: Importa e exporta dados XML.
+
+
+
+A linha pontilhada entre as colunas J e K no Excel geralmente indica uma quebra de página. Isso é útil para visualizar onde as páginas serão divididas ao imprimir a planilha.
+
+Como Gerenciar Quebras de Página no Excel
+Visualizar Quebras de Página:
+
+Vá para a guia "Exibir".
+Selecione "Visualização de Quebra de Página". Isso mostrará todas as quebras de página na planilha.
+Mover Quebras de Página:
+
+Clique e arraste a linha pontilhada para mover a quebra de página para uma nova posição.
+Inserir Quebras de Página:
+
+Selecione a célula onde deseja inserir uma quebra de página.
+Vá para a guia "Layout da Página".
+Clique em "Quebras" e selecione "Inserir Quebra de Página".
+Remover Quebras de Página:
+
+Selecione a célula próxima à quebra de página que deseja remover.
+Vá para a guia "Layout da Página".
+Clique em "Quebras" e selecione "Remover Quebra de Página".

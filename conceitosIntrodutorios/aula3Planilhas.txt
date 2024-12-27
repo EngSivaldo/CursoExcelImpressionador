@@ -1,0 +1,50 @@
+O que é uma Planilha no Excel?
+Uma planilha no Excel é uma grade composta por linhas e colunas que se cruzam para formar células. Cada célula pode conter dados, como texto, números, fórmulas ou gráficos. As planilhas são usadas para organizar, analisar e armazenar informações de maneira eficiente.
+
+Estrutura Básica de uma Planilha
+Linhas e Colunas:
+
+Linhas: São horizontais e são numeradas (1, 2, 3, ...).
+Colunas: São verticais e são identificadas por letras (A, B, C, ...).
+Células:
+
+A interseção de uma linha e uma coluna forma uma célula.
+Cada célula é identificada por uma referência de célula, como A1 (coluna A, linha 1).
+Faixa de Opções:
+
+A faixa de opções no topo da janela do Excel contém várias guias (Página Inicial, Inserir, Layout da Página, etc.) que oferecem ferramentas e comandos para trabalhar com a planilha.
+Funcionalidades Principais
+Inserção de Dados:
+
+Você pode inserir texto, números, datas e fórmulas nas células.
+Para inserir dados, basta clicar em uma célula e começar a digitar.
+Formatação:
+
+Você pode formatar células para alterar a aparência dos dados (fonte, cor, bordas, etc.).
+Use a guia "Página Inicial" para acessar as opções de formatação.
+Fórmulas e Funções:
+
+Fórmulas são expressões que realizam cálculos usando os dados nas células.
+Funções são fórmulas predefinidas que facilitam cálculos complexos (por exemplo, SOMA, MÉDIA, SE).
+Gráficos:
+
+Você pode criar gráficos para visualizar dados de forma gráfica.
+Use a guia "Inserir" para adicionar diferentes tipos de gráficos (coluna, linha, pizza, etc.).
+Filtragem e Classificação:
+
+Você pode filtrar e classificar dados para facilitar a análise.
+Use a guia "Dados" para acessar as ferramentas de filtragem e classificação.
+Exemplo Prático
+Imagine que você está criando uma planilha para gerenciar as notas dos alunos em uma turma:
+
+A	B	C
+1	Nome	Nota1	Nota2
+2	João	85	90
+3	Maria	78	88
+4	Pedro	92	85
+Inserção de Dados: Digite os nomes dos alunos e suas notas nas células correspondentes.
+Fórmula: Calcule a média das notas usando a fórmula =MÉDIA(B2:C2) na célula D2.
+Gráfico: Crie um gráfico de barras para visualizar as notas dos alunos.
+Dicas Úteis
+Atalhos de Teclado: Aprender atalhos de teclado pode aumentar sua produtividade (por exemplo, Ctrl + C para copiar, Ctrl + V para colar).
+Salvar com Frequência: Salve seu trabalho regularmente para evitar perda de dados (Ctrl + S).
