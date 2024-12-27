@@ -1,0 +1,21 @@
+Definição: As linhas são as faixas horizontais que vão de cima para baixo na planilha.
+Identificação: Cada linha é identificada por um número, começando do 1 no topo até o número máximo de linhas que a versão do Excel suporta.
+Uso: As linhas são usadas para organizar dados em uma sequência vertical. Por exemplo, cada linha pode representar um registro ou uma entrada de dados.
+Colunas
+Definição: As colunas são as faixas verticais que vão da esquerda para a direita na planilha.
+Identificação: Cada coluna é identificada por uma letra ou uma combinação de letras, começando com A, B, C, e assim por diante. Após Z, as colunas continuam com AA, AB, etc.
+Uso: As colunas são usadas para organizar dados em uma sequência horizontal. Por exemplo, cada coluna pode representar um tipo de dado ou uma categoria.
+Células
+Interseção: A interseção de uma linha e uma coluna forma uma célula. Cada célula é identificada por uma referência de célula, como A1, B2, etc.
+Conteúdo: As células podem conter dados como texto, números, fórmulas, ou funções.
+Exemplo Visual
+Imagine uma planilha onde você tem uma lista de alunos e suas notas:
+
+A	B
+1	Nome	Nota
+2	João	85
+3	Maria	90
+4	Pedro	78
+Linhas: 1, 2, 3, 4
+Colunas: A, B
+Células: A1, B1, A2, B2, etc.

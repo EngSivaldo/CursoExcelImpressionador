@@ -1,0 +1,46 @@
+1. Página Inicial
+Área de Transferência: Contém comandos para copiar, cortar, colar e usar a ferramenta de pincel de formatação.
+Fonte: Permite alterar o tipo, tamanho, cor e estilo da fonte, além de adicionar bordas e preenchimentos às células.
+Alinhamento: Ajusta o alinhamento do texto dentro das células, incluindo a orientação do texto e a mesclagem de células.
+Número: Formata números como moeda, porcentagem, data, entre outros.
+Estilos: Aplica estilos predefinidos às células, como formatação condicional e estilos de tabela.
+Células: Insere, exclui e formata células, linhas e colunas.
+Edição: Inclui comandos para preencher, limpar, classificar e filtrar dados.
+2. Inserir
+Tabelas: Insere tabelas que facilitam a organização e análise de dados.
+Ilustrações: Adiciona imagens, formas, ícones e SmartArt.
+Gráficos: Insere diferentes tipos de gráficos para visualização de dados.
+Links: Adiciona hiperlinks a células ou objetos.
+Texto: Insere caixas de texto, cabeçalhos, rodapés, WordArt e símbolos.
+Símbolos: Insere equações e símbolos especiais.
+3. Layout da Página
+Temas: Aplica temas predefinidos que alteram a aparência da planilha.
+Configuração de Página: Ajusta margens, orientação, tamanho do papel e áreas de impressão.
+Opções de Planilha: Mostra ou oculta linhas de grade, títulos e cabeçalhos.
+Organizar: Alinha, agrupa e organiza objetos na planilha.
+4. Fórmulas
+Biblioteca de Funções: Acesso rápido a funções financeiras, lógicas, de texto, data e hora, pesquisa e referência, matemática e trigonometria, entre outras.
+Definido pelo Usuário: Gerencia nomes definidos para células e intervalos.
+Auditoria de Fórmulas: Rastreia precedentes e dependentes, mostra fórmulas e verifica erros.
+Cálculo: Define opções de cálculo automático ou manual.
+5. Dados
+Obter e Transformar Dados: Importa dados de várias fontes, como arquivos de texto, bancos de dados e web.
+Consultas e Conexões: Gerencia consultas e conexões de dados.
+Classificar e Filtrar: Ordena e filtra dados em colunas.
+Ferramentas de Dados: Inclui validação de dados, consolidação, remoção de duplicatas e análise de hipóteses.
+Esquema: Agrupa e desagrupa dados para criar estruturas de esboço.
+6. Revisão
+Verificação de Texto: Verifica a ortografia e gramática.
+Acessibilidade: Verifica a acessibilidade do documento.
+Comentários: Adiciona, edita e exclui comentários.
+Proteção: Protege a planilha ou pasta de trabalho com senhas e permissões.
+7. Exibir
+Modos de Exibição: Alterna entre modos de exibição normal, layout de página e quebra de página.
+Mostrar/Ocultar: Mostra ou oculta linhas de grade, títulos, barra de fórmulas e cabeçalhos.
+Zoom: Ajusta o nível de zoom da planilha.
+Janela: Congela painéis, divide a janela e organiza várias janelas.
+Macros: Grava, executa e gerencia macros.
+8. Desenvolvedor
+Código: Acessa o editor do Visual Basic, grava macros e gerencia complementos.
+Controles: Insere controles de formulário e ActiveX.
+XML: Importa e exporta dados XML.
