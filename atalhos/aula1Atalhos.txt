@@ -1,0 +1,47 @@
+Atalhos de Teclado com Ctrl
+1. Ctrl + C (Copiar)
+Uso: Copia o conteúdo das células selecionadas para a área de transferência.
+Exemplo: Selecione uma célula ou um intervalo de células e pressione Ctrl + C. As células selecionadas serão copiadas.
+2. Ctrl + V (Colar)
+Uso: Cola o conteúdo da área de transferência nas células selecionadas.
+Exemplo: Após copiar um conteúdo com Ctrl + C, selecione a célula onde deseja colar e pressione Ctrl + V.
+3. Ctrl + X (Recortar)
+Uso: Recorta o conteúdo das células selecionadas, movendo-o para a área de transferência.
+Exemplo: Selecione uma célula ou um intervalo de células e pressione Ctrl + X. As células selecionadas serão recortadas.
+4. Ctrl + Z (Desfazer)
+Uso: Desfaz a última ação realizada.
+Exemplo: Se você cometeu um erro, pressione Ctrl + Z para desfazer a última ação.
+5. Ctrl + Y (Refazer)
+Uso: Refaz a última ação desfeita.
+Exemplo: Após desfazer uma ação com Ctrl + Z, pressione Ctrl + Y para refazê-la.
+6. Ctrl + A (Selecionar Tudo)
+Uso: Seleciona todas as células da planilha.
+Exemplo: Pressione Ctrl + A para selecionar toda a planilha.
+7. Ctrl + F (Localizar)
+Uso: Abre a caixa de diálogo "Localizar" para procurar texto ou valores na planilha.
+Exemplo: Pressione Ctrl + F, digite o texto que deseja encontrar e pressione "Enter".
+8. Ctrl + H (Substituir)
+Uso: Abre a caixa de diálogo "Substituir" para substituir texto ou valores na planilha.
+Exemplo: Pressione Ctrl + H, digite o texto que deseja substituir e o novo texto, depois pressione "Substituir".
+9. Ctrl + S (Salvar)
+Uso: Salva a planilha atual.
+Exemplo: Pressione Ctrl + S regularmente para salvar seu trabalho e evitar perda de dados.
+10. Ctrl + P (Imprimir)
+Uso: Abre a caixa de diálogo de impressão.
+Exemplo: Pressione Ctrl + P para configurar e imprimir sua planilha.
+Atalhos Adicionais
+11. Ctrl + N (Nova Planilha)
+Uso: Cria uma nova planilha em branco.
+Exemplo: Pressione Ctrl + N para abrir uma nova planilha.
+12. Ctrl + O (Abrir)
+Uso: Abre uma planilha existente.
+Exemplo: Pressione Ctrl + O para abrir a caixa de diálogo de abertura de arquivos.
+13. Ctrl + B (Negrito)
+Uso: Aplica ou remove o negrito ao texto selecionado.
+Exemplo: Selecione o texto e pressione Ctrl + B para aplicar ou remover o negrito.
+14. Ctrl + I (Itálico)
+Uso: Aplica ou remove o itálico ao texto selecionado.
+Exemplo: Selecione o texto e pressione Ctrl + I para aplicar ou remover o itálico.
+15. Ctrl + U (Sublinhado)
+Uso: Aplica ou remove o sublinhado ao texto selecionado.
+Exemplo: Selecione o texto e pressione Ctrl + U para aplicar ou remover o sublinhado.
